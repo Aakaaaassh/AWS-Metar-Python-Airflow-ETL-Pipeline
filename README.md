@@ -1,3 +1,5 @@
+![Screenshot (25)](https://github.com/Aakaaaassh/AWS-Metar-Python-Airflow-ETL-Pipeline/assets/66636545/2e34d018-5980-4f6f-9fc9-6230bf9058fa)
+
 # AWS-Metar-Python-Airflow-ETL-Pipeline
 
 
@@ -38,3 +40,4 @@ This script contains commands to set up the necessary dependencies on an AWS EC2
 
 ## License
 This project is licensed under the MIT License   
+
