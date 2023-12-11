@@ -206,8 +206,8 @@ def Clouds(string):
         ans = "Overcast "
 
     if string[3:6]:
-        dig = int(string[3:6])
-        dig = str(dig) + "00"
+        dig = string[3:6]
+        dig = dig + "00"
 
     if string[6:8] == "CB":
         return ans + dig + " Feet AGL " + "Cumulonimbus"
